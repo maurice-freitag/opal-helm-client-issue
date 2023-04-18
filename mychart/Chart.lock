@@ -1,0 +1,6 @@
+dependencies:
+- name: opal
+  repository: https://permitio.github.io/opal-helm-chart
+  version: 0.0.12
+digest: sha256:7b9347266d056cde31e4d16da5726a83ed418f343322a0ab070e353c791e4f74
+generated: "2023-04-18T13:44:02.5380726+02:00"
